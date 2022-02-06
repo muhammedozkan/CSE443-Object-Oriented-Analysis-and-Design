@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"OOADHW1"},{"l":"OOADHW1.jumpstrategy"},{"l":"OOADHW1.powerupdecorator"}];updateSearchResults();
